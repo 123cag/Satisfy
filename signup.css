@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image: radial-gradient(circle,#07182E);
+}
+.box{
+    width: 70%;
+    background-color: #07182E;
+    box-shadow: 0 10px 10px 10px black;
+    padding: 50px 150px 60px 20px;
+    margin-top: 40px;
+    border-radius: 15px;
+    margin-bottom: 20px; 
+    text-align: left;
+    color: white;
+    
+  
+}
+.welcome{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.butt{
+    padding: 8px;
+    background-color: rgb(183, 88, 53); 
+    border: none;
+    border-radius: 5px;
+}
+.sign{
+    padding: 20px 50px 40px  ;
+    background-color:rgba(59, 58, 58, 0.3);
+    width: 50%;
+    margin-top: -150px;
+    margin-left: 450px;
+}
+.head2{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    border: none;
+    padding: 6px;
+    width: 90%;
+    background-color:rgba(122, 114, 114, 0.3) ;
+}
+.big{
+    background-image: linear-gradient( to right,rgb(183, 88, 55), rgb(191, 86, 10), rgb(183, 88, 55));
+    border: none;
+    border-radius: 10px;
+    padding: 6px;
+    width: 90%;
+}
+.fa-whatsapp,.fa-instagram, .fa-tiktok, .fa-snapchat{
+    font-size: 30px;
+    color: black;
+    margin: 15px;
+}
+.big a{
+    color: white;
+    text-decoration: none;
+}
+
+
